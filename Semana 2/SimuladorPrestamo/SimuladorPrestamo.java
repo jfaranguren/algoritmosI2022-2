@@ -18,7 +18,7 @@ import java.lang.Math;
  *      El valor de la cuota mensual (redondeado al peso mas cercano): 573884.0
  *</pre>
  */
-public class SimuladorPrestamoMetodos {
+public class SimuladorPrestamo{
 	
 	public static void main(String[] args) {
         
