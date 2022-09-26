@@ -49,7 +49,6 @@ public class Player {
 		this.shirtNumber = shirtNumber;
 	}
 
-	@Override
 	public String toString() {
 		return "Player:\nCollection Id: " + collectionId + "\nFullname: " + name + " " + lastName + "\nShirt Number: "
 				+ shirtNumber + "\nPosition: " + playerPosition;
