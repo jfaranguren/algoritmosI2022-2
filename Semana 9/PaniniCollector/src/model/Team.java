@@ -71,8 +71,6 @@ public class Team {
 
 	}
 
-	// Método modificado para consultar todos los jugadores
-	@Override
 	public String toString() {
 
 		String msg = "";
