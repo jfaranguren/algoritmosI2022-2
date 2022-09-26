@@ -6,7 +6,7 @@ public class PaniniController {
 
 	public PaniniController() {
 
-		teams = new Team[3];
+		teams = new Team[32];
 
 	}
 
