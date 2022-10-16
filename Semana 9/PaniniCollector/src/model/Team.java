@@ -12,7 +12,7 @@ public class Team {
 		this.id = "";
 		this.name = name;
 		this.foundationDate = new Date(day, month, year);
-		players = new Player[22];
+		players = new Player[23];
 
 	}
 
@@ -71,8 +71,6 @@ public class Team {
 
 	}
 
-	// Método modificado para consultar todos los jugadores
-	@Override
 	public String toString() {
 
 		String msg = "";
